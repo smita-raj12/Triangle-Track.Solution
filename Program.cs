@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using TrangleTracker.Models;
+using TriangleTracker.Models;
 
 
-namespace TrangleTracker
+namespace TriangleTracker
 {
   public class Program
   {
@@ -18,8 +18,8 @@ namespace TrangleTracker
       Console.WriteLine("Enter side 3");
       string StringInputSide3=Console.ReadLine();
       int InputSide3 = int.Parse(StringInputSide3);
-      Trangle testTrangle = new Trangle(InputSide1,InputSide2,InputSide3);
-      Console.WriteLine(testTrangle.Output());
+      Triangle testTriangle = new Triangle(InputSide1,InputSide2,InputSide3);
+      Console.WriteLine(testTriangle.Output());
     }
   }   
 }

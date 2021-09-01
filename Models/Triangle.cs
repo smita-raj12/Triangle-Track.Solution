@@ -1,20 +1,20 @@
 using System;
 
-namespace  TrangleTracker.Models
+namespace  TriangleTracker.Models
 {
-    public class Trangle
+    public class Triangle
     {
       public int Side1 {get; set;}
       public int Side2 {get; set;}
       public int Side3 {get; set;} 
     
-    public Trangle(int side1, int side2, int side3) 
+    public Triangle(int side1, int side2, int side3) 
     {
       Side1 = side1;
       Side2 = side2;
       Side3 = side3;
     }
-    public bool IsNotTrangle()
+    public bool IsNotTriangle()
     {
       return (
           (Side1 > (Side2 + Side3)) || 
@@ -41,7 +41,7 @@ namespace  TrangleTracker.Models
 
     public string Output()
     {
-      if (IsNotTrangle())
+      if (IsNotTriangle())
       {
         return "This is not a Triangle";
       }
