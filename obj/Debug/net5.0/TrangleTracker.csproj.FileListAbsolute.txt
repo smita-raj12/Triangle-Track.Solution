@@ -1,0 +1,16 @@
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\bin\Debug\net5.0\TrangleTracker.deps.json
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\bin\Debug\net5.0\TrangleTracker.dll
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\bin\Debug\net5.0\ref\TrangleTracker.dll
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\bin\Debug\net5.0\TrangleTracker.pdb
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.csprojAssemblyReference.cache
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.AssemblyInfoInputs.cache
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.AssemblyInfo.cs
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.dll
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\ref\TrangleTracker.dll
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.pdb
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\bin\Debug\net5.0\TrangleTracker.exe
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\bin\Debug\net5.0\TrangleTracker.runtimeconfig.json
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\bin\Debug\net5.0\TrangleTracker.runtimeconfig.dev.json
+C:\Users\rao34\Desktop\c#Programs\TrangleTracker.Solution\TrangleTracker\obj\Debug\net5.0\TrangleTracker.genruntimeconfig.cache
